@@ -1,2 +1,2 @@
 MODEL = "gpt"
-DEBUG = True
+DEBUG = False
