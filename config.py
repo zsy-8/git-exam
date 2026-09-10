@@ -1,0 +1,2 @@
+MODEL = "gpt"
+DEBUG = False
