@@ -1,2 +1,2 @@
-MODEL = "gpt"
+MODEL = "model-a"
 DEBUG = False
